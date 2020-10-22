@@ -3,7 +3,9 @@
 $db=localhost
 $user=pepe
 $pwd=lkasj908234+8234
-
+$u=lalala
+$p=testing.234
+  
 db_connect($db,$user,$pwd);
 
 
